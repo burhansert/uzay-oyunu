@@ -1,0 +1,9 @@
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\bin\Debug\Proje.exe.config
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\bin\Debug\Proje.exe
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\bin\Debug\Proje.pdb
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\obj\Debug\Proje.exe
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\obj\Debug\Proje.pdb
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Bilgisayar Mühendisliği\Dersler\2. Dönem\NESNEYE DAYALI PROGRAMLAMA\Ödevler\Proje\Proje\Proje\obj\Debug\Proje.AnaForm.resources
